@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vidura Hewaduwa</h1>
 <h3 align="center">Freelance Developer | Software Engineering Student | Passionate about building innovative and user-centric solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidurahewaduwa&label=Profile%20views&color=0e75b6&style=flat" alt="vidurahewaduwa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidurahewaduwa" alt="vidurahewaduwa" /></a> </p>
 
 - ⚡ Fun fact **My favorite podcast is JoeRogan. I am totally addicted to it**
 
